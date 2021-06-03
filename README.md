@@ -1,7 +1,7 @@
 # studyTracker
 My Study and Personal Project Tracker to become Full-Stack Web Developer
 
-![study-update](https://user-images.githubusercontent.com/77793080/120658151-2f4f7c00-c453-11eb-93f8-9c48537ad449.png)
+![study-update](https://user-images.githubusercontent.com/77793080/120658323-527a2b80-c453-11eb-96db-927d8163be0f.png)
 
 
 ![project](https://user-images.githubusercontent.com/77793080/118554537-910fa680-b72f-11eb-8d3d-14b5a60e8299.png)
